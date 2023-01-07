@@ -1,0 +1,27 @@
+.text {
+  text-align: center;
+  background: #d4c995;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+p {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  letter-spacing: 6px;
+}
+.apex-legend {
+  width: 900px;
+  height: auto;
+}
+.apex-text {
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+  font-size: 1.3rem;
+  padding: 1rem;
+}
